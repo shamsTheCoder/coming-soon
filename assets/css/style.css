@@ -1,6 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Nunito', sans-serif;
   color: #fff;
   background: url("../img/bg.jpg") top center no-repeat;
   background-size: cover;
@@ -39,7 +40,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Nunito', sans-serif;
 }
 
 #main {
@@ -305,7 +306,7 @@ h6 {
   align-items: center;
   justify-content: space-between;
   padding: 10px 0 10px 30px;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Nunito', sans-serif;
   font-size: 16px;
   font-weight: 700;
   color: #3a5469;
