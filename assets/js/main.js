@@ -1,10 +1,4 @@
-/**
-* Template Name: Maundy - v4.8.1
-* Template URL: https://bootstrapmade.com/maundy-free-coming-soon-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-(function() {
+(function () {
   "use strict";
 
   /**
@@ -62,7 +56,7 @@
   let countdown = select('.countdown');
   const output = countdown.innerHTML;
 
-  const countDownDate = function() {
+  const countDownDate = function () {
     let timeleft = new Date(countdown.getAttribute('data-count')).getTime() - new Date().getTime();
 
     let days = Math.floor(timeleft / (1000 * 60 * 60 * 24));

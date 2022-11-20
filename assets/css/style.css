@@ -1,13 +1,4 @@
-/**
-* Template Name: Maundy - v4.8.1
-* Template URL: https://bootstrapmade.com/maundy-free-coming-soon-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #fff;
@@ -179,6 +170,7 @@ h6 {
 
 #header .subscribe .subscribe-form input[type=email] {
   border: 0;
+  outline: none;
   padding: 4px 8px;
   width: calc(100% - 100px);
 }
